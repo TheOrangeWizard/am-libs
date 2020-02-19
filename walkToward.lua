@@ -1,4 +1,5 @@
 --walks the player directly towards tx,tz
+--press K to abort and stop moving
 
 function walkToward(tx,tz,announce)
   announce = announce or false
